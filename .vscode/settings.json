@@ -1,0 +1,7 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "/Users/rukmininazre/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "CMAKE_MAKE_PROGRAM": "/opt/homebrew/bin/ninja"
+    },
+    "cmake.generator": "Ninja"
+}

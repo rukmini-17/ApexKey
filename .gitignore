@@ -1,0 +1,4 @@
+build/
+vcpkg_installed/
+apex_data.txt
+.DS_Store

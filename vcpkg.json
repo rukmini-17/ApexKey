@@ -1,0 +1,9 @@
+{
+  "name": "apexkey",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "grpc",
+    "protobuf",
+    "gtest"
+  ]
+}
